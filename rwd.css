@@ -1,0 +1,59 @@
+
+
+
+	[class*='col-']{
+		float:left;
+		padding:10px;
+		}
+	
+/*手機*/
+	[class*='col-']{
+		width:100%;
+		}
+	
+
+/*平板	*/
+@media only screen and (min-width:992px) {
+	.col-m-1{width:8.33%;}
+	.col-m-2{width:16.67%;}
+	.col-m-3{width:25.00%;}
+	.col-m-4{width:33.33%;}
+	.col-m-5{width:41.67%;}
+	.col-m-6{width:50.00%;}
+	.col-m-7{width:58.33%;}
+	.col-m-8{width:66.67%;}
+	.col-m-9{width:75.00%;}
+	.col-m-10{width:83.33%;}
+	.col-m-11{width:91.67%;}
+	.col-m-12{width:100.0%;}
+}
+	
+/*桌機*/	
+@media only screen and (min-width:1200px) {
+	.col-1{width:8.33%;}
+	.col-2{width:16.67%;}
+	.col-3{width:25.00%;}
+	.col-4{width:33.33%;}
+	.col-5{width:41.67%;}
+	.col-6{width:50.00%;}
+	.col-7{width:58.33%;}
+	.col-8{width:66.67%;}
+	.col-9{width:75.00%;}
+	.col-10{width:83.33%;}
+	.col-11{width:91.67%;}
+	.col-12{width:100.0%;}
+}
+	
+footer{
+             font-size: 0.8rem;
+             text-align: center;
+             background-color: #eeeeee;
+             color:gray;  
+             bottom:0px;
+             left: 0px;
+             position:  fixed;
+             width: 100%;
+             padding: 8px;
+           
+          }
+	
