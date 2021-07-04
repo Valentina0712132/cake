@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <center>
-        <img src="images/code.jpg" width="300" height="300" alt="alt"/>
+        <img src="code.jpg" width="300" height="300" alt="alt"/>
         <p></p>
         <h3>掃描行動條碼即可將官方帳號加入好友</h3>
         </center>
