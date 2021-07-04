@@ -221,7 +221,7 @@ and open the template in the editor.
         echo "<tr>";
         echo "<th scope='row'></th>";
         echo "<td>";
-        echo "<img src='images/newyork.jpg' width='150' height='150'>";
+        echo "<img src='newyork.jpg' width='150' height='150'>";
         echo "</td>";
         echo "<td width='600px'>";
         echo "Product Id:&nbsp;p01<p>";
@@ -244,7 +244,7 @@ and open the template in the editor.
         echo "<tr>";
         echo "<th scope='row'></th>";
         echo "<td>";
-        echo "<img src='images/oreo.jpg' width='150' height='150'>";
+        echo "<img src='oreo.jpg' width='150' height='150'>";
         echo "</td>";
         echo "<td width='600px'>";
         echo "Product Id:&nbsp;p02<p>";
@@ -267,7 +267,7 @@ and open the template in the editor.
         echo "<tr>";
         echo "<th scope='row'></th>";
         echo "<td>";
-        echo "<img src='images/bal.jpg' width='150' height='150'>";
+        echo "<img src='bal.jpg' width='150' height='150'>";
         echo "</td>";
         echo "<td width='600px'>";
         echo "Product Id:&nbsp;p03<p>";
@@ -290,7 +290,7 @@ and open the template in the editor.
         echo "<tr>";
         echo "<th scope='row'></th>";
         echo "<td>";
-        echo "<img src='images/cake1.jpg' width='150' height='150'>";
+        echo "<img src='cake1.jpg' width='150' height='150'>";
         echo "</td>";
         echo "<td width='600px'>";
         echo "Product Id:&nbsp;p04<p>";
@@ -313,7 +313,7 @@ and open the template in the editor.
         echo "<tr>";
         echo "<th scope='row'></th>";
         echo "<td>";
-        echo "<img src='images/cake2.jpg' width='150' height='150'>";
+        echo "<img src='cake2.jpg' width='150' height='150'>";
         echo "</td>";
         echo "<td width='600px'>";
         echo "Product Id:&nbsp;p05<p>";
@@ -335,7 +335,7 @@ and open the template in the editor.
         echo "<tr>";
         echo "<th scope='row'></th>";
         echo "<td>";
-        echo "<img src='images/cake3.jpg' width='150' height='150'>";
+        echo "<img src='cake3.jpg' width='150' height='150'>";
         echo "</td>";
         echo "<td width='600px'>";
         echo "Product Id:&nbsp;p06<p>";
