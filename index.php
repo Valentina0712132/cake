@@ -134,7 +134,7 @@
           </ul>
             
             <!-- LINE Button -->
-           <div onclick="openwindow()"><img src="icon.png" width="40" height="40"/></div>
+           <div onclick="openwindow()"><img src="images/icon.png" width="40" height="40"/></div>
 
             
             &nbsp;
@@ -213,15 +213,15 @@ nonce="Sa6hljrh"></script>
           <div class="carousel-inner">
               <!-- 第一張 -->
             <div class="carousel-item active">
-                <img src="cheesecake1.jpg" class="d-block" alt="...">
+                <img src="images/cheesecake1.jpg" class="d-block" alt="...">
             </div>
               <!-- 第二張 -->
             <div class="carousel-item">
-              <img src="cheesecake2.jpg" class="d-block " alt="...">
+              <img src="images/cheesecake2.jpg" class="d-block " alt="...">
             </div>
               <!-- 第三張 -->
             <div class="carousel-item">
-              <img src="cheesecake3.jpg" class="d-block" alt="...">
+              <img src="images/cheesecake3.jpg" class="d-block" alt="...">
             </div>
               
           </div>
@@ -251,7 +251,7 @@ nonce="Sa6hljrh"></script>
           <div class="row">
               <div class="col-12 col-md-4">
                   <div class="card" style="width:100%;">
-                      <a href="nk.html"><img src="newyork.jpg" class="card-img-top"></a>
+                      <a href="nk.html"><img src="images/newyork.jpg" class="card-img-top"></a>
                     <div class="card-body">
                       <h5 class="card-title"> New York Cheesecake</h5>
                       <p class="card-text">$1,050</p>
@@ -270,7 +270,7 @@ nonce="Sa6hljrh"></script>
               
               <div class="col-12 col-md-4">
                   <div class="card" style="width:100%;">
-                    <a href="oreo.html"><img src="oreo.jpg" class="card-img-top"></a>
+                    <a href="oreo.html"><img src="images/oreo.jpg" class="card-img-top"></a>
                     <div class="card-body">
                       <h5 class="card-title"> Oreo-Cheesecake</h5>
                       <p class="card-text">$1,200</p>
@@ -288,7 +288,7 @@ nonce="Sa6hljrh"></script>
               
               <div class="col-12 col-md-4">
                   <div class="card" style="width:100%;">
-                    <a href="bal.html"><img src="berry1.jpg" class="card-img-top"></a>
+                    <a href="bal.html"><img src="images/berry1.jpg" class="card-img-top"></a>
                     <div class="card-body">
                       <h5 class="card-title">Baileys Cheesecake</h5>
                       <p class="card-text">$1,200</p>
@@ -317,7 +317,7 @@ nonce="Sa6hljrh"></script>
               
               <div class="col-12 col-md-4" id="a123">
                   <div class="card" style="width:100%;">
-                      <a href="dp.html"><img src="cake1.jpg" class="card-img-top"></a>
+                      <a href="dp.html"><img src="images/cake1.jpg" class="card-img-top"></a>
                     <div class="card-body">
                       <h5 class="card-title">Dear Princess</h5>
                       <p class="card-text">$1,250</p>
@@ -335,7 +335,7 @@ nonce="Sa6hljrh"></script>
               
               <div class="col-12 col-md-4">
                   <div class="card" style="width:100%;">
-                      <a href="pink.html"><img src="cake2.jpg" class="card-img-top"></a>
+                      <a href="pink.html"><img src="images/cake2.jpg" class="card-img-top"></a>
                     <div class="card-body">
                       <h5 class="card-title">Lady Pink</h5>
                       <p class="card-text">$1,200</p>
@@ -353,7 +353,7 @@ nonce="Sa6hljrh"></script>
               
               <div class="col-12 col-md-4">
                   <div class="card" style="width:100%;">
-                      <a href="choco.html"><img src="cake3.jpg" class="card-img-top"></a>
+                      <a href="choco.html"><img src="images/cake3.jpg" class="card-img-top"></a>
                     <div class="card-body">
                       <h5 class="card-title">Chocolate Birthdaycake</h5>
                       <p class="card-text">$1,200</p>
